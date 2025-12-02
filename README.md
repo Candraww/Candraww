@@ -75,7 +75,7 @@ I am currently expanding my backend knowledge by learning **Go** and **System De
   />
 </a>
 
-  <a href="https://drive.google.com/file/d/1HPQtzfVQymX_GIsf5rbuom8tP74_3sSZ/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/1tyNaPWxDXmDcZg9GOGbqGGvuxIJxVLF-/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Download_CV-282C34?style=for-the-badge&logo=google-drive&logoColor=white" alt="CV" />
   </a>
 </div>
