@@ -35,29 +35,46 @@ I am currently expanding my backend knowledge by learning **Go** and **System De
 <div align="center">
 
 **Languages**<br>
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
 
 **Frontend & Web**<br>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
 
-**Mobile & Backend**<br>
-<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/> <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+**Backend & Database**<br>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_API-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
 
 **Tools**<br>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 
 </div>
+
 
 ---
 
 ### 📌 Featured Projects
 
+### 📌 Featured Projects
+
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| **NutriCycle** | 🥗 Healthy catering marketplace app with nutrition tracking & eco-friendly packaging features. | ![Java](https://img.shields.io/badge/-Java-orange) ![Android](https://img.shields.io/badge/-Android-green) |
-| **PromigoWeb** | 🛍️ Promo & brand management website focusing on clean UI/UX. | ![React](https://img.shields.io/badge/-React-blue) ![Tailwind](https://img.shields.io/badge/-Tailwind-cyan) |
-| **Deteksi Uang** | 💵 Deep learning model to classify Indonesian Banknotes (Rupiah). | ![Python](https://img.shields.io/badge/-Python-yellow) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-orange) |
-| **Portfolio** | 🎨 Minimalist personal website showcasing my journey (Work in Progress). | ![React](https://img.shields.io/badge/-React-blue) ![Vite](https://img.shields.io/badge/-Vite-purple) |
+| **JobPortal** | 💼 Full-stack job portal platform with secure authentication, role-based access, and database-level security using Row Level Security (RLS). | React, Tailwind, Vite, Supabase |
+| **NutriCycle** | 🥗 Healthy catering marketplace mobile app with nutrition tracking features, built using native Android development. | Java, Android Studio |
+| **Portfolio** | 🎨 Minimalist personal portfolio website showcasing projects and skills (Work in Progress). | React, Vite |
+
 
 ---
 
