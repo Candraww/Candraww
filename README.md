@@ -67,8 +67,6 @@ I am currently expanding my backend knowledge by learning **Go** and **System De
 
 ### 📌 Featured Projects
 
-### 📌 Featured Projects
-
 | Project | Description | Stack |
 | :--- | :--- | :--- |
 | **JobPortal** | 💼 Full-stack job portal platform with secure authentication, role-based access, and database-level security using Row Level Security (RLS). | React, Tailwind, Vite, Supabase |
@@ -78,7 +76,6 @@ I am currently expanding my backend knowledge by learning **Go** and **System De
 
 ---
 
-### 📫 Let's Connect
 
 <div align="center">
   <a href="https://www.linkedin.com/in/candra-wijaya-c2005" target="_blank">
