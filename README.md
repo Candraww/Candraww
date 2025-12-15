@@ -17,9 +17,7 @@
 
 <br/>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Candraww&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
+
 
 ---
 
@@ -71,6 +69,7 @@ I am currently expanding my backend knowledge by learning **Go** and **System De
 | :--- | :--- | :--- |
 | **JobPortal** | 💼 Full-stack job portal platform with secure authentication, role-based access, and database-level security using Row Level Security (RLS). | React, Tailwind, Vite, Supabase |
 | **NutriCycle** | 🥗 Healthy catering marketplace mobile app with nutrition tracking features, built using native Android development. | Java, Android Studio |
+| **JoyMarket** | 🛒 Java-based desktop marketplace application implementing MVC architecture with authentication, cart, checkout, admin stock management, and courier delivery workflow. | Java, JavaFX, MySQL, JDBC |
 | **Portfolio** | 🎨 Minimalist personal portfolio website showcasing projects and skills (Work in Progress). | React, Vite |
 
 
